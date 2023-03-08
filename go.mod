@@ -1,4 +1,4 @@
-module github.com/akhil/ecommerce-yt
+module github.com/Viru9029/Footware-E-Commerce-Project
 
 go 1.16
 
